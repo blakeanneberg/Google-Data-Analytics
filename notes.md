@@ -33,3 +33,13 @@
 # Data Ecosystems
 - Various elements that interact with one another in order to produce, manage, store, organizze and analyze and share data
 - Data analysis; collection, transformation and organization of data in order to draw conclusions, make predictions and drie informed decision making
+# Data Driven decision making
+- Using facts to guid business strategy 
+- Figuring out the business need, or problem that needs to be solved.
+- Data analyist finds data, analyzes it and uses it to uncover treneds, patterns and relationships. Sometimes build on whats worked in the past. 
+- Subject matter experts have ability to look at results of data analysis and identify any inconsistencies 
+- Data + Business Knowledge = mystery solved
+    1. What kind of results are needed/ 
+    2. Who will be informed?
+    3. Am I answering the question being asked?
+    4. How quickly does a decision need to be made?
