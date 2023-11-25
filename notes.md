@@ -27,3 +27,9 @@
 6. Act
     - Work with leaders within their company and decide how to best implement changes and take ctions based on findings
 
+# Data Ecosystems
+- Various elements that interact with one another in order to produce, manage, store, organizze and analyze and share data
+- Data analysis; collection, transformation and organization of data in order to draw conclusions, make predictions and drie informed decision making
+# Data Ecosystems
+- Various elements that interact with one another in order to produce, manage, store, organizze and analyze and share data
+- Data analysis; collection, transformation and organization of data in order to draw conclusions, make predictions and drie informed decision making
