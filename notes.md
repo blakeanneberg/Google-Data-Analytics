@@ -30,9 +30,11 @@
 # Data Ecosystems
 - Various elements that interact with one another in order to produce, manage, store, organize and analyze and share data
 - Data analysis; collection, transformation and organization of data in order to draw conclusions, make predictions and drive informed decision making
+
 # Data Ecosystems
 - Various elements that interact with one another in order to produce, manage, store, organize and analyze and share data
 - Data analysis; collection, transformation and organization of data in order to draw conclusions, make predictions and drive informed decision making
+
 # Data Driven decision making
 - Using facts to guide business strategy 
 - Figuring out the business need, or problem that needs to be solved.
@@ -53,3 +55,10 @@
     7. Data analysis
     8. Data visualization
     9. Utilization of analysis results
+
+# Key data analyst skills
+- Curiosity 
+- Understanding context
+- Having a technical mindset
+- Data design
+- Data strategy
