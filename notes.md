@@ -57,8 +57,25 @@
     9. Utilization of analysis results
 
 # Key data analyst skills
-- Curiosity 
-- Understanding context
-- Having a technical mindset
-- Data design
-- Data strategy
+- Curiosity: a desire to know more about something, asking the right questions
+- Understanding context: understanding where information fits into the “big picture”
+- Having a technical mindset: breaking big things into smaller steps
+- Data design: thinking about how to organize data and information
+- Data strategy: thinking about the people, processes, and tools used in data analysis 
+
+# Analytical thinking
+- Visualization
+- Strategy
+- Problem-orientation
+- Correlation
+- Big-picture and detail oriented thinking
+
+# Root Cause Analysis
+- Ask Why five times, and fifth answer should give you the answer.
+
+# Gaps in the process, Gap Analysis
+- Gap analysis lets you examine and evaluate how a process works currently in order to get where you want to be in the future.
+- Where you are now and where you want to be in the future.
+
+# What did we not consider before
+- analysts take their thinking a step further by using context to make predictions, research answers, and eventually draw conclusions about what they've discovered.
